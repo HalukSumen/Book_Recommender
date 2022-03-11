@@ -23,16 +23,41 @@ Columns Description:
 * __publication_date__ = date of publication
 * __publisher__ = name of the publisher
 
-<p align="center">
-  <img width="500" height="500" src="">
-</p>
-<p align="center">
-     <b>Train Dataset Example</b>
-</p>
 
 ### 3 - Exploratory Data Analysis
 
-Firstly, I checked data, which came two different dataset which are train and test. Later I checked distribution of labels in datasets and I create a list for expressing images for both datasets, moreover I see all the classes(labels) equally distributed. So I dont need to do Oversampling or Undersampling. 
+Firstly, 
+
+
+<p align="center">
+  <img width="800" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/languagedistribution.png">
+</p>
+<p align="center">
+     <b>Language Distribution</b>
+</p>
+
+<p align="center">
+  <img width="800" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/authorswithNumberofbooks.png">
+</p>
+<p align="center">
+     <b>Language Distribution</b>
+</p>
+
+<p align="center">
+  <img width="800" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/most_rated_books.png">
+</p>
+<p align="center">
+     <b>Language Distribution</b>
+</p>
+
+<p align="center">
+  <img width="800" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/Average%20rating.png">
+</p>
+<p align="center">
+     <b>Language Distribution</b>
+</p>
+
+
 
 ### 4 - Data Preprocessing
 
