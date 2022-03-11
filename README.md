@@ -82,13 +82,17 @@ After all these steps, I wanted to investigate the relationship of columns. As y
 <p align="center">
   <img width="500" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/averagerating_ratingscount.png">
 </p>
-### 4 - Data Preprocessing
+
+### 4 - Modelling 
+In the modelling part, I already decide to use K-Means Algorithm but I have to decide how many should I use. For deciding this I used Elbow Method which is giving very good assumption. In the figure below you can see the graph.
+
+<p align="center">
+  <img width="500" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/elbow.png">
+</p>
 
 
-### 5 - Modelling 
 
-
-### 6 - Result & Future Work
+### 5 - Result & Future Work
 
 As a result, my model gives overally good results. 
 
