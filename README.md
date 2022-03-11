@@ -45,7 +45,29 @@ In EDA I visualize language distribution, Top 20 authors with number of books, T
   <img width="800" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/Average%20rating.png">
 </p>
 
-Secondly,
+Secondly, I create list for my favorite authors.
+```
+authors = ['Gabriel García Márquez', 'Jack London', 'George Orwell', 'Jules Verne', 'Richard P. Feynman']
+```
+<p align="center">
+  <img width="800" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/GabrielGarc%C3%ADaM%C3%A1rquez.png">
+</p>
+
+<p align="center">
+  <img width="800" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/GeorgeOrwell.png">
+</p>
+
+<p align="center">
+  <img width="900" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/JackLondon.png">
+</p>
+
+<p align="center">
+  <img width="800" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/JulesVerne.png">
+</p>
+
+<p align="center">
+  <img width="800" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/RichardFeynman.png">
+</p>
 
 
 
