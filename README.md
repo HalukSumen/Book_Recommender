@@ -4,7 +4,7 @@
 
 ### 1 - Abstract
 
-In this project I made Exploratory Data Analysis, Data Visualisation and lastly Modelling. Dataset contains 11123 rows in csv file. Each example row represent a book with 12 different information. Before modelling part I have to check NaN values and make some small adjustment for easy to use of the dataset and merge couple of languages on 1 language(en-AUS,en-UK to eng). Later I made couple of visualization to understand the dataset better. In modelling part, I used unsupervised learning algorithm K-means which is grouping unlabelled data. For deciding number of cluster I used Elbow method and decide to do 5 clusters. Finally, I test my model with several books and add input function for searching easily. 
+In this project I made Exploratory Data Analysis, Data Visualisation and lastly Modelling. Dataset contains 11123 rows in csv file. Each example row represent a book with 12 different information. Before modelling part I have to check NaN values and make some small adjustment for easy to use of the dataset and merge couple of languages on 1 language(en-AUS,en-UK to eng). Later I made couple of visualization to understand the dataset better. In modelling part, I used unsupervised learning algorithm K-means which is grouping unlabelled data. For deciding number of cluster I used Elbow method and decided to do 5 clusters. Finally, I test my model with several books and add input function for searching easily. 
 
 ### 2 - Data
 <a href="https://www.kaggle.com/jealousleopard/goodreadsbooks">Dataset</a> contains 12 columns and 11123 rows.
