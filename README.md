@@ -103,14 +103,19 @@ Lastly I implemented Min-max scaler, for reducing bias. Because some books has m
 ```
 print_similar_books("Caesar (Masters of Rome  #5)")
 ```
-The Metaphysical Club
-One Hundred Years of Solitude
-Alice's Adventures in Wonderland and Through the Looking-Glass (Alice's Adventures in Wonderland  #1-2)
-In Cold Blood
-Desperation / The Regulators: Box Set
+* The Metaphysical Club
+* One Hundred Years of Solitude
+* Alice's Adventures in Wonderland and Through the Looking-Glass (Alice's Adventures in Wonderland  #1-2)
+* In Cold Blood
+* Desperation / The Regulators: Box Set
 
+```
+print_similar_books("Lord of the Flies")
+```
+Introduction to the Philosophy of History with Selections from The Philosophy of Right
+Marie  Dancing
+The Odyssey
+The Hour Before Dark
+A Philosophical Enquiry into the Origin of our Ideas of the Sublime and Beautiful
 
-
-
-As a result, my model gives overally good results. 
-
+As a result, my book recommender gives good results. But still there are more rooms to improvement. Such as, finding category of each books makes everything more effective. Or increasing size of data or information(more rows) can help more accurate recommendations.
