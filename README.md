@@ -87,12 +87,30 @@ After all these steps, I wanted to investigate the relationship of columns. As y
 In the modelling part, I already decide to use K-Means Algorithm but I have to decide how many should I use. For deciding this I used Elbow Method which is giving very good assumption. In the figure below you can see the graph.
 
 <p align="center">
-  <img width="500" height="300" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/elbow.png">
+  <img width="800" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/elbow.png">
 </p>
 
+After deciding 5 clusters, I created plotting and expressing clusters.
+
+<p align="center">
+  <img width="800" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/cluster1.png">
+</p>
+
+Lastly I implemented Min-max scaler, for reducing bias. Because some books has massive amount of features and some of them very few. So, Min-Max scaler will find the median all books. 
 
 
 ### 5 - Result & Future Work
+```
+print_similar_books("Caesar (Masters of Rome  #5)")
+```
+The Metaphysical Club
+One Hundred Years of Solitude
+Alice's Adventures in Wonderland and Through the Looking-Glass (Alice's Adventures in Wonderland  #1-2)
+In Cold Blood
+Desperation / The Regulators: Box Set
+
+
+
 
 As a result, my model gives overally good results. 
 
