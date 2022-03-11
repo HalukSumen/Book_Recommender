@@ -26,36 +26,26 @@ Columns Description:
 
 ### 3 - Exploratory Data Analysis
 
-Firstly, 
+In EDA I visualize language distribution, Top 20 authors with number of books, Top 20 highest rated books, and Average rating distribution for all books. 
 
 
 <p align="center">
   <img width="800" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/languagedistribution.png">
 </p>
-<p align="center">
-     <b>Language Distribution</b>
-</p>
 
 <p align="center">
   <img width="800" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/authorswithNumberofbooks.png">
 </p>
-<p align="center">
-     <b>Language Distribution</b>
-</p>
 
 <p align="center">
-  <img width="800" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/most_rated_books.png">
-</p>
-<p align="center">
-     <b>Language Distribution</b>
+  <img width="900" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/most_rated_books.png">
 </p>
 
 <p align="center">
   <img width="800" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/Average%20rating.png">
 </p>
-<p align="center">
-     <b>Language Distribution</b>
-</p>
+
+Secondly,
 
 
 
