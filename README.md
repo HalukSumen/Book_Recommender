@@ -112,10 +112,10 @@ print_similar_books("Caesar (Masters of Rome  #5)")
 ```
 print_similar_books("Lord of the Flies")
 ```
-Introduction to the Philosophy of History with Selections from The Philosophy of Right
-Marie  Dancing
-The Odyssey
-The Hour Before Dark
-A Philosophical Enquiry into the Origin of our Ideas of the Sublime and Beautiful
+* Introduction to the Philosophy of History with Selections from The Philosophy of Right
+* Marie  Dancing
+* The Odyssey
+* The Hour Before Dark
+* A Philosophical Enquiry into the Origin of our Ideas of the Sublime and Beautiful
 
 As a result, my book recommender gives good results. But still there are more rooms to improvement. Such as, finding category of each books makes everything more effective. Or increasing size of data or information(more rows) can help more accurate recommendations.
