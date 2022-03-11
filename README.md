@@ -45,7 +45,7 @@ In EDA I visualize language distribution, Top 20 authors with number of books, T
   <img width="800" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/Average%20rating.png">
 </p>
 
-Secondly, I create list for my favorite authors.
+Secondly, I create list for my favorite authors and visualize their books according to average rating of books. 
 ```
 authors = ['Gabriel García Márquez', 'Jack London', 'George Orwell', 'Jules Verne', 'Richard P. Feynman']
 ```
@@ -66,11 +66,22 @@ authors = ['Gabriel García Márquez', 'Jack London', 'George Orwell', 'Jules Ve
 </p>
 
 <p align="center">
-  <img width="800" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/RichardFeynman.png">
+  <img width="900" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/RichardFeynman.png">
 </p>
 
+After all these steps, I wanted to investigate the relationship of columns. As you can see below, __Average Rating and Number of Pages, Average Rating and Reviews Counts,Rating Counts and Average Ratings__
 
+<p align="center">
+  <img width="500" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/averagerating_numpages.png">
+</p>
 
+<p align="center">
+  <img width="500" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/averagerating_reviewcount.png">
+</p>
+
+<p align="center">
+  <img width="500" height="500" src="https://github.com/HalukSumen/Book_Recommender/blob/main/images/averagerating_ratingscount.png">
+</p>
 ### 4 - Data Preprocessing
 
 
